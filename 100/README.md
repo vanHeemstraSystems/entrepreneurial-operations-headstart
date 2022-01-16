@@ -14,3 +14,27 @@ Finally, please take a moment to fill out our [quick survey](http://babson.qualt
 Enjoy!
 
 BabsonX Course Team
+
+## 200 - Getting Started, Incomplete section
+
+See [README.md](./200/README.md)
+
+## 300 - Week 1: Entrepreneurial Operations - Mindset, Strategy, Execution, Incomplete section
+
+See [README.md](./300/README.md)
+
+## 400 - Week 2: Operations Value Chain Canvas: SOURCE & PRODUCE, Incomplete section
+
+See [README.md](./400/README.md)
+
+## 500 - Week 3: Operations Value Chain Canvas: DELIVER & MAINTAIN, Incomplete section
+
+See [README.md](./500/README.md)
+
+## 600 - Week 4: Managing New Venture Operations Risk, Incomplete section
+
+See [README.md](./600/README.md)
+
+## 700 - Conclusion
+
+See [README.md](./700/README.md)
